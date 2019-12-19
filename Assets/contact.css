@@ -1,0 +1,40 @@
+.topbar1{background-color:#095c91;height:55px;}
+.topbar1 a img{height:50px;width:150px;margin-left:25px;}
+.topbar1 #active{color:white;font-size:17px;margin-left:50px;border-right:1px dotted white;padding-bottom:10px;padding-right:10px;}
+.topbar1 a font{color:white;font-size:17px;margin-left:5px;border-right:1px dotted white;padding-bottom:10px;padding-right:5px;}
+.topbar1 a,{text-decoration:none;}
+.topbar1 button{background-color:red;border:none;height:40px;color:white;border-radius:5px;cursor:pointer;width:170px;margin-left:10px;}
+.topbar1 #main:hover{background-color:white;color:red}
+.topbar1 #active2{border-bottom:2px solid white;}
+.banner{margin-top:60px;}
+.banner font{font-size:40px;font-weight:bold;}
+.banner .banner_heading{margin-left:42%;margin-top:-100px;}
+.rightIcon{position:absolute;z-index:10;margin-top:70px;width:100%;overflow:hidden}
+.rightIcon .div1{background-color:#095c91;height:60px;width:330px;float:right;margin-right:-285px;padding:10px 10px;}
+.rightIcon .div1:hover{transform: translateX(-250px);transition: all 0.3s ease-in-out 0.0s;}
+.rightIcon .div2{background-color:#095c91;height:60px;width:330px;float:right;margin-right:-285px;padding:10px 10px;}
+.rightIcon .div2:hover{transform: translateX(-250px);transition: all 0.3s ease-in-out 0.0s;}
+.rightIcon .div3{background-color:#095c91;height:60px;width:330px;float:right;margin-right:-285px;padding:10px 10px;}
+.rightIcon .div3:hover{transform: translateX(-250px);transition: all 0.3s ease-in-out 0.0s;}
+.rightIcon .div1 .fa,.rightIcon .div2 .fa,.rightIcon .div3 .fa{font-size:40px;color:white;float:left;margin-right:10px}
+.rightIcon .div1 p,.rightIcon .div2 p,.rightIcon .div3 p{color:white;cursor:pointer;text-decoration:underline;float:left;}
+.rotate{transform:rotate(90deg)}
+.address{width:400px;margin-left:42%;}
+.address p{line-height:15px;}
+.address #left{float:left;}
+.address .phone{color:green;transform:rotate(90deg);margin-right:5px}
+#p_heading{font-size:25px;}
+.messagebox{height:350px;width:300px;border:1px solid black;padding:10px 10px;margin-left:140px;margin-top:-100px;border-radius:5px}
+.messagebox #bold{font-weight:bold;}
+.messagebox button{width:100%;background-color:#095c91;font-size:18px;font-weight:bold;color:white;border:none;border-radius:5px;}
+.map{height:300px;width:400px;margin-left:45%;margin-top:-200px}
+.secondlast a{text-decoration:none;}
+.col-sm-3{height:200px;padding:30px 30px;}
+.secondlast{background:black;height:60px;padding:20px}
+.secondlast font{color:white;font-weight:bold;font-size:15px;margin-left:40px;}
+.secondlast img{height:60px;margin-top:-45px;width:130px;display:block}
+.secondlast #button2{background-image:url(images/facebook.png); margin-right:140px}
+.secondlast #button1{background-image:url(images/twitters.png);}
+.secondlast button{background-repeat:no-repeat;height:37px;width:130px;cursor:pointer;float:right;border-radius:5px;border:none;margin-top:-45px;background-color:black}
+.last{height:40px;}
+.last p{float:right;font-weight:bold;margin-right:15px;}

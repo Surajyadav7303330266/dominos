@@ -1,0 +1,103 @@
+body{
+	margin:0px;padding:0px;
+}
+.topbar
+{padding:10px 10px;
+border:0px solid red;
+height:75px;}
+.topbar div{float:left;}
+.topbar div #topbar_menuitem{
+	text-decoration:none;
+	font-size:15px;
+	color:#888888;
+	margin-left:25px;
+	font-weight:bold;
+}
+.topbar div #topbar_menuitem:hover{color:#222;}
+.topbar2,.topbar3{}
+.topbar2{margin-left:60px;margin-top:10px}
+.topbar3{margin-left:30px;margin-top:px}
+.topbar div #topbar_menubutton{
+	background-color:red;
+	cursor:pointer;
+	border:none;
+	height:50px;
+	color:white;
+	border-radius:4px;
+	padding:10px 10px;
+}
+.header{
+	background-color:#1a5ca3;
+height:433px;
+margin-top:75px;
+}
+.order-heading{
+	text-transform: none;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 0.8;
+    color: white;
+	font-family: Comic Sans MS;
+    padding-left: 1em;
+}
+.deliver-message{
+	font-size:25px;
+    text-align: left;
+    font-family:  Comic Sans MS;
+    letter-spacing: 0.8;
+    font-weight: 400;
+    color: #a8d2ff;
+    margin-top: 0px;
+    padding-left: 1.5em;
+}
+#header_button{
+	background-color:#00ff00;
+	border:none;
+	height:60px;
+	color:white;
+	width:450px;
+	font-weight:bold;
+	font-size:25px;
+	cursor:pointer;
+}
+.headercontent{
+	height:200px;
+	width:550px;
+	float:right;
+}
+.card{
+	width:23%;
+	border:1px dotted grey;
+	float:left;
+	margin-left:15px;
+}
+.card h1{font-size:25px}
+.carousel {
+  margin-bottom: 4rem;
+}
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 300px;
+}
+.secondlast div{
+	border:0px solid red;
+	float:left;
+	width:25%;
+	height:350px
+}
+.secondlast{
+	background-color:#333333;
+	height:350px;
+}
+.secondlast img,.secondlast font{cursor:pointer}
+.last{height:70px;border-top:1px dotted #bbb;}

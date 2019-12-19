@@ -1,0 +1,28 @@
+.topbar1{background-color:#095c91;height:45px;}
+.topbar1 a img{height:38px;width:150px;margin-left:25px;}
+.topbar1 #active{color:white;font-size:17px;margin-left:50px;border-right:1px dotted white;border-bottom:2px solid white;padding-bottom:10px;padding-right:10px;}
+.topbar1 a font{color:white;font-size:17px;margin-left:5px;border-right:1px dotted white;padding-bottom:10px;padding-right:5px;}
+.topbar1 a,.topbar2 a{text-decoration:none;}
+.topbar1 button{background-color:red;border:none;height:40px;color:white;border-radius:5px;cursor:pointer;width:170px;margin-left:10px;}
+.topbar1 #main:hover{background-color:white;color:red}
+.topbar2{margin-top:45px}
+.topbar2 a font{color:white;font-size:12px;margin-left:5px;border-right:1px dotted white;padding-bottom:10px;padding-right:5px;}
+.menuitem{background-image:url(images/redback.png);height:550px;width:33%;float:left}
+.menuitem1{background-image:url(images/redback.png);height:550px;width:34%;float:left}
+.menuitem #menubtn{background-color:white;border:none;height:40px;color:red;border-radius:5px;cursor:pointer;width:170px;margin-left:10px;}
+.menuitem #menubtn:hover{background-color:red;color:white}
+.menuitem font{color:white;font-size:30px;font-weight:bold;}
+.menuitem p{color:white;}
+.menuitem1 #menubtn{background-color:white;border:none;height:40px;color:red;border-radius:5px;cursor:pointer;width:170px;margin-left:10px;}
+.menuitem1 #menubtn:hover{background-color:red;color:white}
+.menuitem1 font{color:white;font-size:30px;font-weight:bold;}
+.menuitem1 p{color:white;}
+.secondlast{background:black;height:60px;margin-top:1100px;padding:20px}
+.secondlast a{text-decoration:none;}
+.secondlast font{color:white;font-weight:bold;font-size:15px;margin-left:40px;}
+.secondlast img{height:60px;margin-top:-45px;width:130px;display:block}
+.secondlast #button2{background-image:url(images/facebook.png); margin-right:140px}
+.secondlast #button1{background-image:url(images/twitters.png);}
+.secondlast button{background-repeat:no-repeat;height:37px;width:130px;cursor:pointer;float:right;border-radius:5px;border:none;margin-top:-45px;background-color:black}
+.last{height:40px;}
+.last p{float:right;font-weight:bold;margin-right:15px;}
